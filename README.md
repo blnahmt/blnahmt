@@ -7,7 +7,7 @@ Computer Engineering Student at Kocaeli University
 I’m interested in Flutter and Unity
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [bilen.ahmet.original@gmail.com](mailto:bilen.ahmet.original@gmail.com)
+* ✉️  You can contact me at [bilenahmet5299@gmail.com](mailto:bilenahmet5299@gmail.com)
 * 🚀  I'm currently working on [Bilen Music Player](http://play.google.com/store/apps/details?id=com.bilenstudio.music&hl=tr&gl=US)
 * 🧠  I'm learning Flutter, C# and ASP.NET
 
