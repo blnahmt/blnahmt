@@ -28,4 +28,4 @@ I’m interested in Flutter and Unity
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/blnahmt"><img src="https://github-readme-stats.vercel.app/api?username=blnahmt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="blnahmt's GitHub stats" /></a>
+<a href="http://www.github.com/blnahmt"><img src="https://github-readme-stats.vercel.app/api?username=blnahmt&show_icons=true&hide=&count_private=true&title_color=ff5555&text_color=f8f8f2&icon_color=f8f8f2&bg_color=282a36&hide_border=true&show_icons=true" alt="blnahmt's GitHub stats" /></a>
