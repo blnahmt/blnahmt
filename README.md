@@ -14,9 +14,12 @@ I’m interested in Flutter and Unity
 ### Projects
 
 [Bilen Music Player](https://play.google.com/store/apps/details?id=com.bilenstudio.music)
-\n[FTPGames](https://github.com/blnahmt/FTP-Games)
-\n[Ikinci-El-Alim-Satim](https://github.com/blnahmt/Ikinci-El-Alim-Satim)
-\n[Others](https://github.com/blnahmt?tab=repositories)
+
+[FTPGames](https://github.com/blnahmt/FTP-Games)
+
+[Ikinci-El-Alim-Satim](https://github.com/blnahmt/Ikinci-El-Alim-Satim)
+
+[Others](https://github.com/blnahmt?tab=repositories)
 
 ### Skills
 
