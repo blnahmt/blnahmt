@@ -15,7 +15,7 @@ I’m interested in Flutter and Unity
 
 [Bilen Music Player](https://play.google.com/store/apps/details?id=com.bilenstudio.music) "An offline android music player with beautiful UI"
 
-[FTPGames](https://github.com/blnahmt/FTP-Games) "An Free to play game App. Fetch games from the freetoplaygames Api"
+[FTPGames](https://github.com/blnahmt/FTP-Games) "A Free to play game App. Fetch games from the freetoplaygames Api"
 
 [Ikinci-El-Alim-Satim](https://github.com/blnahmt/Ikinci-El-Alim-Satim) "A second hand sell/buy app. Uses firebase as backend and authantication"
 
