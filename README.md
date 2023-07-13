@@ -19,6 +19,8 @@ I’m interested in Flutter and Unity
 
 [Ikinci-El-Alim-Satim](https://github.com/blnahmt/Ikinci-El-Alim-Satim) "A second hand sell/buy app. Uses firebase as backend and authantication. Build with Flutter"
 
+[Word Game](https://github.com/blnahmt/WordGame) "A word game build with flutter. Uses Hive as database."
+
 [HPMemory](https://github.com/blnahmt/HPMemory) "A memory game written in Android studio with Kotlin. Uses firebase for authantication"
 
 [Others](https://github.com/blnahmt?tab=repositories)
